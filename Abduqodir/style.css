@@ -304,3 +304,136 @@ text-align: center;
 
 color: #414141;
 }
+
+
+/* =============================== 3333333333333333333333 =========================== */
+
+
+.section3{
+    margin-top: 90px;
+    padding-top: 76px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+background: linear-gradient(180deg, #F7F7F7 0%, rgba(247, 247, 247, 0.912716) 77.88%, rgba(247, 247, 247, 0) 100%);
+}
+
+
+.sec3_top{
+    width: 1209px;
+    height: 770px;
+    background-image: url();
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: purple;
+}
+
+.sec3_t_p{
+    width: 656px;
+    height: 77px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sec3_t_p p{
+    font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 77px;
+/* identical to box height, or 214% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #364C76;
+}
+
+.sec3_t_video{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: gray;
+}
+
+.video_left{
+    width: 530px;
+    height: 424px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    position: relative;
+}
+
+.circle{
+    position: absolute;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-top: 138px;
+}
+
+.sec3_video_bottom{
+    width: 460px;
+    height: 64px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sec3_v_b_l{
+    width: 56px;
+    height: 56px;
+}
+
+.sec3_v_b_r{
+    width: 220px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.l{
+    padding: 15px 0;
+    width: 130px;
+    height: 84px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.l p{
+    font-weight: 700;
+font-size: 20px;
+line-height: 37px;
+
+text-align: center;
+
+color: #364C76;
+
+}
+
+.l span{
+    font-weight: 350;
+font-size: 16px;
+line-height: 37px;
+
+text-align: center;
+
+color: #364C76;
+}
